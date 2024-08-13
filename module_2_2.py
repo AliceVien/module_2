@@ -1,4 +1,4 @@
-first = int(input()) #int() без аргументов возвращает 0
+first = int(input())
 second = int(input())
 third = int(input())
 
